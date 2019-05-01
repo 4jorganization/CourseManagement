@@ -15,7 +15,7 @@ namespace DemoApplication.Controllers
 
 		public ActionResult About()
 		{
-			ViewBag.Message = "FourJunctions Course Management.";
+			ViewBag.Message = "Kalyan's change - II";
 
 			return View();
 		}
